@@ -5,6 +5,7 @@
 * Drag/Drop Items between Slots and Hotbar
 * Hotbar
 * Add/Remove Items via code
+* Item stacking
 * Check if Inventory has / does not have a specific item
 * Check how many of specific Item the Inventory has
 * Inventory is a Singleton so you can access it from any script
